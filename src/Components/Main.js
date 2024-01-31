@@ -16,14 +16,14 @@ function Main() {
             </p>
             <div className='buttondiv'>
                 <button className='login'>
-                    <img className='laptop' src='/images/laptop.png' alt='laptop'></img>
+                    <img className='laptop' src='./images/laptop.png' alt='laptop'></img>
                     Login in to chat
                 </button>
 
                 <p>or</p>
 
                 <button className='microsoft'>
-                    <img src='/images/microsoft1.png' alt='microsft'></img>
+                    <img src='./images/microsoft1.png' alt='microsft'></img>
                     <div>
                         <p>Get it from</p><b>Microsoft</b>
                     </div>
@@ -31,7 +31,7 @@ function Main() {
             </div>
         </div>
         <div className='snapdiv'>
-            <img src='/images/snapboy.png' alt='snapboy'></img>
+            <img src='./images/snapboy.png' alt='snapboy'></img>
         </div>
     </div>
   )
