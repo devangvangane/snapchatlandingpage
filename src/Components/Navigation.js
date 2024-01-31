@@ -10,7 +10,7 @@ function Navigation() {
     <div className='nav'>
         <div className='logosearch'>
             <button className='snap_b' type='button' onClick={reloadPage}> 
-                <img className='logo' src='/images/snapchat.png' alt='logo'></img>
+                <img className='logo' src='images/snapchat.png' alt='logo'></img>
             </button>
             <div className='searchinput'>
                 <img className='searchimg' src='/images/search.png' alt='search'></img>
@@ -28,7 +28,7 @@ function Navigation() {
                 <p>Spotlight</p>
             </button>
             <button className='but'>
-                <img className='chat' src='/images/chat.png' alt='chat'></img>
+                <img className='chat' src='/images/chat.JPG' alt='chat'></img>
                 <p> Chat</p>
             </button>
             <button className='but'>
